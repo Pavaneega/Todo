@@ -28,5 +28,5 @@ This is a simple To-Do application built using Flask and MongoDB. The app allows
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/Pavaneega/Todo
 cd todo-app
